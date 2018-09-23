@@ -24,7 +24,9 @@ Tracker, 追踪者。至于追踪什么，因人而异。另外，这里分享�
 
 ## DHT
 
+* [DHT](https://colobu.com/2018/03/26/distributed-hash-table/)
 * [DHT技术原理](https://blog.csdn.net/u012785382/article/details/70739325)
+* [聊聊分布式散列表（DHT）的原理——以 Kademlia（Kad）和 Chord 为例(需翻墙)](https://program-think.blogspot.com/2017/09/Introduction-DHT-Kademlia-Chord.html)
 
 
 
