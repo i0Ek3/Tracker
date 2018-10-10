@@ -8,6 +8,7 @@ Tracker, 追踪者。至于追踪什么，因人而异。另外，这里分享�
 | Name | Key | Status |
 | --- | --- | --- |
 | Resilio Sync | BTVJ4CKR2PFM2D7F7UQAWPS6K3VMJFW4Q | Daily |
+| [fanqiang](https://github.com/bannedbook/fanqiang/wiki) | BG2G54AGRNPC5YXSTLQV5PNWL7ULYRIPC | --- |
 | DigitalTimes | B3QPXXS4CXVVDAQTXTCV53XTKVS5E5ZB6 | --- |
 | program-think's offline blog | B7P64IMWOCXWEYOXIMBX6HN5MHEULFS4V | Available |
 | ^FQ | BTLZ4A4UD3PEWKPLLWEOKH3W7OQJKFPLG | --- |
